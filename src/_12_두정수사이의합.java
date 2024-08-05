@@ -1,6 +1,4 @@
-import java.sql.PreparedStatement;
-
-public class 두정수사이의합_12 {
+public class _12_두정수사이의합 {
 
     public static void main(String[] args) {
         long solution = Solution.solution(0, 10_000_000);

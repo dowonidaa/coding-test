@@ -1,4 +1,4 @@
-public class 핸드폰번호가리기_17 {
+public class _17_핸드폰번호가리기 {
 
     public static void main(String[] args) {
         String solution = Solution.solution("01000090001123");

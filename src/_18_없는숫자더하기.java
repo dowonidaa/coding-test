@@ -1,4 +1,4 @@
-public class 없는숫자더하기_18 {
+public class _18_없는숫자더하기 {
 
     public static void main(String[] args) {
     }

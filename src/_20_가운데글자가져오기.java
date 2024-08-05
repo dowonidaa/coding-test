@@ -1,4 +1,4 @@
-public class 가운데글자가져오기_20 {
+public class _20_가운데글자가져오기 {
 
     public static void main(String[] args) {
         String solution = Solution.solution("abcd");

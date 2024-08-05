@@ -1,8 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-public class 음양더하기_16 {
+public class _16_음양더하기 {
 
     public static void main(String[] args) {
 

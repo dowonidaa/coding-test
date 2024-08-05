@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class 서울에서김서방찾기_14 {
+public class _14_서울에서김서방찾기 {
 
     public static void main(String[] args) {
         String[] seoul = {"Jene", "Kim"};

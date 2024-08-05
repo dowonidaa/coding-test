@@ -1,4 +1,4 @@
-public class 콜라츠추측_13 {
+public class _13_콜라츠추측 {
 
     public static void main(String[] args) {
         int solution = Solution.solution(16);

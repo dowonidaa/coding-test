@@ -1,4 +1,4 @@
-public class 하샤드_11 {
+public class _11_하샤드 {
 
     public static void main(String[] args) {
         boolean solution = Solution.solution(11);

@@ -1,4 +1,4 @@
-public class 제일작은수제거하기_19 {
+public class _19_제일작은수제거하기 {
 
     public static void main(String[] args) {
         int[] solution = Solution.solution(new int[]{2, 3, 6,5, 10, 1});
